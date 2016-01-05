@@ -1,5 +1,8 @@
 # ReadMe
 
+
+test  by   
+
 资料的下载入口在本网页的右侧,有一个 download-ZIP 按钮,即可下载到本地。↗↗
 
 为了方便第三方开发者快速集成微博 SDK，我们提供了以下联系方式，协助开发者进行集成：  
@@ -291,6 +294,3 @@ AsyncWeiboRunner.requestAsync(
 [7]:https://github.com/sinaweibosdk/weibo_android_sdk/edit/master/README.md#%E4%B8%BE%E4%BE%8B%E4%BD%BF%E7%94%A8%E5%BC%82%E6%AD%A5%E6%8E%A5%E5%8F%A3%E6%9D%A5%E5%8F%91%E9%80%81%E4%B8%80%E6%9D%A1%E5%B8%A6%E5%9B%BE%E7%89%87%E7%9A%84%E5%BE%AE%E5%8D%9A
 [8]:http://sinaweibosdk.github.io/weibo_android_sdk/doc/
 
-
-
-test
